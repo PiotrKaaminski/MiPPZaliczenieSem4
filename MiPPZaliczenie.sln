@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPPZaliczenie", "MiPPZaliczenie\MiPPZaliczenie.csproj", "{764B3981-30FE-417B-A66A-8AD160D624C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764B3981-30FE-417B-A66A-8AD160D624C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764B3981-30FE-417B-A66A-8AD160D624C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764B3981-30FE-417B-A66A-8AD160D624C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764B3981-30FE-417B-A66A-8AD160D624C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B57BE00-755F-4F27-9AC5-D306CF35EED3}
+	EndGlobalSection
+EndGlobal
